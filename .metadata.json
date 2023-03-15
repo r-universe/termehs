@@ -2,5 +2,9 @@
   {
     "package": "multigraphr",
     "oncran": true
+  },
+  {
+    "package": "netropy",
+    "oncran": true
   }
 ]

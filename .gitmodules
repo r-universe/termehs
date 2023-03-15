@@ -8,3 +8,8 @@
 	url = https://github.com/termehs/multigraphr
 	shallow = true
 	registered = true
+[submodule "netropy"]
+	path = netropy
+	url = https://github.com/termehs/netropy
+	shallow = true
+	registered = true
